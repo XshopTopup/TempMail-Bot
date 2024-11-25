@@ -12,7 +12,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Initialize the bot and dispatcher
-API_TOKEN = '12345678:AABCDEFGluTTdhulPbhVvoZEo7gg'  # Change the token with your bot token
+API_TOKEN = '7750296345:AAFDyu88US1JkiD847IDuc6Tj1Vt3L1umGU'  # Change the token with your bot token
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
